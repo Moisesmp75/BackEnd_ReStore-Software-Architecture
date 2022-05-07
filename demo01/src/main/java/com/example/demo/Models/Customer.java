@@ -1,4 +1,5 @@
 package com.example.demo.Models;
+package com.example.demo.Models;
 
 import javax.persistence.*;
 
@@ -45,3 +46,4 @@ public class Customer {
         this.deliveryPlace = deliveryPlace;
     }
 }
+
