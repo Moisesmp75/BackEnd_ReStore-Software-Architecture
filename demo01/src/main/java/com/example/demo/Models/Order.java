@@ -37,12 +37,4 @@ public class Order {
     public void setDate(String date) {
         this.date = date;
     }
-
-    public Long getPrice() {
-        return Price;
-    }
-
-    public void setPrice(Long price) {
-        Price = price;
-    }
 }
