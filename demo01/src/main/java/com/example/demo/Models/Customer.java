@@ -45,3 +45,17 @@ public class Customer {
         this.deliveryPlace = deliveryPlace;
     }
 }
+
+
+    public void setLasttname(String lasttname) {
+        this.lasttname = lasttname;
+    }
+
+    public String getDeliveryPlace() {
+        return deliveryPlace;
+    }
+
+    public void setDeliveryPlace(String deliveryPlace) {
+        this.deliveryPlace = deliveryPlace;
+    }
+}
